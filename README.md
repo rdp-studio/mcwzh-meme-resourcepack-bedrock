@@ -1,22 +1,14 @@
 # 中文Minecraft Wiki梗体中文资源附加包-基岩版 · Unofficial
 
-[![GitHub issues](https://img.shields.io/github/issues/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock?logo=github&style=flat-square)](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock/issues)    [![GitHub pull requests](https://img.shields.io/github/issues-pr/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock?logo=github&style=flat-square)](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock/pulls)    [![License](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=db2331&style=flat-square&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)    [![License](https://img.shields.io/static/v1?label=License+for+script&message=Apache-2.0&color=db2331&style=flat-square&logo=apache)](http://www.apache.org/licenses/LICENSE-2.0)    [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock?label=latest%20version&style=flat-square)](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock/releases)    [![Minecraft ver](https://img.shields.io/static/v1?label=Minecraft%20version&message=1.13.0%2B&color=db2331&style=flat-square&logo=)](https://minecraft.net)
-
-[![Banner](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/blob/master/materials/zh_meme_banner.png?raw=true)](https://www.mcbbs.net/thread-1005191-1-1.html)
+[![Banner](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/blob/master/materials/zh_meme_banner.png?raw=true)](https://gtch.utools.club/)
 
 此资源包仅适用于**Minecraft基岩版**。
-
-* 关于适用于Minecraft Java版的资源包，参见[Java版梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack)。
-* 关于Minecraft基岩版的翻译问题，详见[译名标准化/基岩版](https://minecraft-zh.gamepedia.com/MCW:译名标准化/基岩版)。
-  * 关于Minecraft基岩版的简体中文修正，参见中文Minecraft Wiki行政员Ff98sha制作的[基岩版译名修正](https://github.com/ff98sha/mclangcn)。
-  * 关于Minecraft基岩版的繁体中文修正，参见小俊AUA制作的[此资源附加包](https://forum.gamer.com.tw/C.php?bsn=18673&snA=183269)。
-  * 关于Minecraft基岩版的全语言修正，参见俄语Crowdin校对员fromgate制作的[Translations for Minecraft (Bedrock)](https://www.curseforge.com/minecraft/mc-addons/translations-for-minecraft)。
 
 **若发现自身可能存在该资源包上头的情况，请立刻~~食用~~阅读[译名标准化](https://minecraft-zh.gamepedia.com/MCW:译名标准化)。**
 
 ## 注意
 
-* 该资源包的内容完全参照于其[Java版的版本](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack)，另外加入了一些适配于基岩版的内容。
+* 该资源包的内容完全参照于其[Java版的版本](https://github.com/rdp-studio/mcwzh-meme-resourcepack)，另外加入了一些适配于基岩版的内容。
 * 以下若无特殊说明，“Minecraft”皆指Minecraft基岩版，“资源包”皆指资源附加包。
 
 ## 作用
