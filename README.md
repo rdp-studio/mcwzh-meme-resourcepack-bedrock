@@ -111,5 +111,3 @@ python build.py -h
   * 这意味着，你可在署名的情况下自由修改本资源包，但是你再创作的作品必须以本协议发布。
   * 这不是法律建议。
 * 本项目的自动构建脚本以 ***Apache 2.0*** 协议发布。
-
-![GitHub forks](https://img.shields.io/github/forks/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock?style=social)    ![GitHub stars](https://img.shields.io/github/stars/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock?style=social)    ![GitHub watchers](https://img.shields.io/github/watchers/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock?style=social)
