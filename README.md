@@ -57,7 +57,7 @@
 1. 下载源码：
 
 ``` bash
-git clone https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock.git
+git clone https://github.com/rdp-studio/mcwzh-meme-resourcepack-bedrock.git
 ```
 
 2. 进入文件夹：
